@@ -1,2 +1,1 @@
-# config-props
-config server repository
+# configprops
